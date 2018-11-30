@@ -74,5 +74,5 @@ public class ControllerCariAlatTulis2 {
         this.view.setLocationRelativeTo(null);
         this.view.show();
     }
-    
+    //----------------------------------------------------
 }
